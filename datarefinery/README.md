@@ -17,13 +17,13 @@ Data Refinery is a self service data preparation component embedded into the IBM
 
 1. From the dashboard page, Click the **`Get started`** drop down menu on the top right of the page and then Click on the **`Create a project`** option to create a new project on Watson Studio.
 
-    ![Create Project](docs/images/ss1.png)
+    ![Create Project](../docs/images/ss8a.png)
 
 1. Select `Standard` as the type of project to create.
 
 1. Give your project a name and click **`Create`** on the bottom right.
 
-    ![Name Project](docs/images/ss2.png)
+    ![Name Project](../docs/images/ss9a.png)
 
 1. Click the `Assets` tab near the top of the page.
 

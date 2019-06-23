@@ -2,9 +2,7 @@
 
 ## Objective
 
-TODO INSERT IMAGE OF DS WORKFLOW
-
-This content will walk you through the fundamental first steps of the Data Science / ML workflow. We will be exploring different aspects of data understanding, visualization and processing. By the end of these labs/tutorials, you should understand:
+This workshop will walk you through some of the fundamental early stages of the Data Science / ML workflow. We will be exploring different aspects of data understanding, visualization and processing. By the end of these labs/tutorials, you should understand:
 
 - The use of Jupyter Notebooks in IBM Watson Studio
 - How to load data sets with open source libraries
@@ -24,7 +22,7 @@ This content will walk you through the fundamental first steps of the Data Scien
 
 ***
 
-## Flow
+## Workshop Flow
 
 Most of these labs are written in python and using Jupyter Notebooks. One of the most common python libraries used for data analysis and manipulation is [pandas](https://pandas.pydata.org/), which is used throughout the labs. For a quick tutorial around pandas, feel free to run through the material found here - [IBMDeveloperUK pandas-workshop](https://github.com/IBMDeveloperUK/pandas-workshop).
 
