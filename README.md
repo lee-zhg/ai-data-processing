@@ -60,7 +60,7 @@ In this lab, we will take a quick break from coding and explore the options for 
 
 Follow the instructions in the [Data Refinery Readme](datarefinery/README.md)
 
-### Lab 4 - Data Refinery for Visualization
+### Lab 4 - Data Understanding Example Insights
 
 Finally, with a bit of background in both a code based and zero code based approach to data exploration, we will turn to an example of applying these data processing/visualization techniques to a scenario where we are trying to understand why employees might leave a company (Employee Attrition Problem). 
 
