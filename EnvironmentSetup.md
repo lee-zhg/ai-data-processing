@@ -1,5 +1,7 @@
 # Setting Up Watson Studio
 
+In this lab we will be using Watson Studio and Jupyter Notebooks to analyze datasets. We will need to have an instance of Watson Studio provisioned as well as a cloud object storage instance where our artifacts/assets get stored.
+
 ## Prerequisites
 
 - An IBM Cloud ID

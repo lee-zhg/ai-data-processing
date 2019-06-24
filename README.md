@@ -40,7 +40,7 @@ Most of these labs are written in python and using Jupyter Notebooks. One of the
 
     ![Download Repo](docs/images/ss0.png)
 
-1. Ensure you have access to a Waston Studio Instance. If you need to provision an instance, see the instructions in the [Setup Watson Studio doc](SetupWatsonStudio.md)
+1. Ensure you have access to a Waston Studio Instance. If you need to provision an instance, see the instructions in the [Setup Watson Studio doc](EnvironmentSetup.md)
 
 ### Lab 1 - Pandas For Visualization
 
