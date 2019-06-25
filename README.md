@@ -42,25 +42,25 @@ Most of these labs are written in python and using Jupyter Notebooks. One of the
 
 1. Ensure you have access to a Waston Studio Instance. If you need to provision an instance, see the instructions in the [Setup Watson Studio doc](EnvironmentSetup.md)
 
-### Lab 1 - Pandas For Visualization
+### (Optional) Lab 0 - Pandas For Visualization
 
-In this first lab, we will be using pandas & geopandas to explore and visualize data. The goal of this lab is to get you familiar with pandas, loading data, understanding whats in the data and some aspects of visualization.
+In this optional lab, we will be using pandas & geopandas to explore and visualize data. The goal of this lab is to get you familiar with pandas, loading data, understanding whats in the data and some aspects of visualization.
 
 Follow the instructions in this [README](https://github.com/jrtorres/geopandas-workshop)
 
-### Lab 2 - Pandas and Pixie Dust
+### Lab 1 - Pandas and Pixie Dust
 
-In this second lab, we will start to explore using helper libraries in our analysis library. In this example, we will use Pixie Dust to simplify the visualization aspects of our data analysis.
+In this lab, we will start to explore using helper libraries in our analysis tasks. In this example, we will use Pixie Dust to simplify the visualization aspects of our data analysis.
 
 Follow the instructions in the [Diet & Disease Exploration Readme](Diet-Disease-Exploration.md)
 
-### Lab 3 - Data Refinery for Visualization
+### Lab 2 - Data Refinery for Visualization
 
 In this lab, we will take a quick break from coding and explore the options for data visualization with no development requirements. In this case, we will use the Data Refinery tool of Watson Studio to help us visualize aspects of a data set.
 
 Follow the instructions in the [Data Refinery Readme](datarefinery/README.md)
 
-### Lab 4 - Data Understanding Example Insights
+### Lab 3 - Data Understanding Example Insights
 
 Finally, with a bit of background in both a code based and zero code based approach to data exploration, we will turn to an example of applying these data processing/visualization techniques to a scenario where we are trying to understand why employees might leave a company (Employee Attrition Problem). 
 
